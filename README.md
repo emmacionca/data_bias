@@ -22,7 +22,7 @@ I examined these attributes from the Perspective API:
 I hypothesized that the Perspective API is unable to identify white supremacist speech, especially if that speech is made in a manner without the use of profanity.
 
 ## Results
-The flagging of comments with high identity attack and insult scores was much more prevalent in the Stormfront data. Additionally, the rate at which these types of comments appear in the Stormfront data is much higher. The Perspective API was able to detect a difference between the Stormfront data and the Reddit data, despite the use of language not including profanity, disproving my hypothesis. 
+The flagging of comments with high identity attack scores was much more prevalent in the Stormfront data. Additionally, the rate at which these types of comments appear in the Stormfront data is much higher. The Perspective API was able to detect a difference between the Stormfront data and the Reddit data, despite the use of language not including profanity, disproving my hypothesis. 
 
 
 
